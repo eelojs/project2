@@ -1,0 +1,185 @@
+@media screen and (max-width:768px){
+    /* 테블릿css */
+.inner{
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+    width: 100%;
+}
+header .inner{padding: 0;}
+.shippingBanner p{
+    font-size: 1.3rem;
+    line-height: 1.5;
+    text-align: left;
+}
+.shippingBanner a{
+    text-decoration: none;
+}
+
+.gnb_wrap a p{
+    width: 100%;;
+    padding-left: 27px;
+    font-size: 12px;
+    line-height: 1.2;
+}
+.list_fl li:nth-child(1),li:nth-child(2),li:nth-child(3)
+,li:nth-child(4),li:nth-child(5),li:nth-child(6),li:nth-child(7)
+{
+    display: none;
+}
+.list_fl li a{ 
+    background-image: url(../search.png)no-repeat center;
+    background-size: 20px;
+}
+.Aesop_logo{
+    margin-left: -121px;
+}
+.home_body_banner{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+video{
+    position: absolute;
+    top: -60px;
+    left: 0;
+    width: 140%;
+    height: 620px;
+    overflow-x: hidden;
+}
+.login_fr{
+    margin-right: 0px;}
+.cart_fr{margin-right: -27px;}
+.main_tit{
+    left: 44%;
+    right: -58%;
+    top: 20%;
+}
+}
+.content_banner{
+    margin-top: 20px;
+}
+
+.content_banner1{
+    font-size: 30px;
+    margin-top: -18px;
+    line-height: 2.33;
+    font-weight: 400;
+}
+.banner_contentwrap{
+    margin-right: 65%;
+    margin-top: -3%;}
+.banner_contents{
+    margin-top: 10px;
+    margin-left:-65px;}
+.banner-txt_p{
+    margin-left: -65px;    
+}
+.eye{
+    float: left;
+    margin-top: 148px;
+    margin-left: 25px;
+}
+.eyeserum_fl p {
+    margin-top: 30px;
+    margin-left: 20px;}
+.eyeserum_fl span {
+    margin-left: 15px;}
+.img_fr img{
+    width: 672px;
+    height: 430px;
+    margin-top: 50%;}
+
+.buy, .search{
+    display: block;
+}
+.aesop_content_txt2 {
+    width: auto;
+    text-align: center;
+}
+.hair_care{
+    margin-bottom: -10px;}
+
+.hair_content.cf img{
+    width: 384px;
+    height: 715px;   
+    margin-top: -710px;
+}
+.aesop_content_txt2 .hair_text{
+    align-items: center;
+    font-weight: 400;
+    margin-top: 175px;
+    width: 542px;
+    text-align: justify;
+    line-height: 1.7;
+    white-space: normal;
+    margin-left: 80px;}
+
+.hair-care{margin-bottom: -427px;}
+.hair_content.cf{
+    padding-top: 20px;
+   
+}
+.shampoo_box{
+    float: right;
+    margin-right: -64%;
+    margin-top: 41%;
+
+}
+.conditioner_box{
+    float: left;
+    text-align: center;
+    font-weight: 400;
+    line-height: 3.7;
+    margin-right: -64%;
+    margin-top: 41%;}
+.content3{
+    margin-top: 570px;
+}
+
+
+.shampoo-conditioner{
+  display:block;
+}
+.hair_base{
+    margin-top: 300px;
+}
+.goodchoice {margin-top: 160px;}
+
+.goodchoice h2{
+    left: 25px;}
+.perfume{
+    margin-top: 45px;
+    margin-left: 30px;
+}
+.store_tit{
+    margin-top: 300px;
+}
+.store_by{
+    margin-top: -10%;
+}
+.store_txt{
+    margin-top: 50px;
+}
+.img_slider-fr {
+    width: 672px;
+    
+}
+.slick-slide img{
+    margin-top: 265px;
+    height: 380px;
+    width: 672px;
+}
+.content4 .txt{
+    text-align: center;
+    margin-left: -107%;
+
+}
+.footer_section{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}

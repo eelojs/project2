@@ -1,0 +1,24 @@
+@media screen and (min-width:414px) and(max-width:896px) {
+    .inner{
+        width: 99vh;
+        box-sizing: border-box;
+        overflow: hidden;
+    }   
+    .shippingBanner{
+        font-size: 1.4rem;
+        line-height: 1.5;
+        text-align: left;
+    }
+    .shoping_list.cf{
+        display: none
+    }
+    video{
+        overflow: hidden;
+        display: fixed;
+        top: 0;
+        
+    }
+    .Aesop_logo{
+        margin-right: 100px;
+    }
+}
