@@ -31,7 +31,7 @@ header .inner{padding: 0;}
     display: none;
 }
 .list_fl li a{ 
-    background-image: url(../search.png)no-repeat center;
+    background-image: url(../search.png) no-repeat center;
     background-size: 20px;
 }
 .Aesop_logo{
